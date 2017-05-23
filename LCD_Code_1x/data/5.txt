@@ -1,0 +1,17 @@
+Happy Birthday. Soon you. Happy Birthday. Susan unit Happy Birthday Dear Catherine, happy birthday and you and minimal sun 340. Oh or so. Not still or not. Net. He has Union on so not so and managing is Union. Yes, they dash dash dash managing Andy. And And you know, and still or not. I hope your birthday is going to cost me And I love you, miss you and gimme a call. Bye.
+
+Happy Birthday. Soon__   
+ you. Happy Birthday
+. Susan unit Happy Bir_ 22 
+Birthday Dear 
+
+
+- out of order
+- conflict of seek + read?
+- why doesn’t it move the content of the line?
+Ed Bennett
+do we make the arrays bit bigger to cover ends? Then can just start again from that spot…?
+
+finding spaces from the end
+
+does read advance the pointer — YES
